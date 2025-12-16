@@ -111,7 +111,7 @@ export default function Home() {
               <p className="text-lg text-foreground/90 mb-4">
                 Dirección:
                 <br />
-                Colonia Lomas Verdes, Pasaje Las Rosas 5235, San Salvador.
+                Alameda Roosevelt edf 3022 local 1, San Salvador, El Salvador
               </p>
               <div className="space-y-2">
                 <p className="flex items-center gap-2 justify-center md:justify-start text-accent">
@@ -172,7 +172,7 @@ export default function Home() {
             {/* Mapa */}
             <iframe
               title="Ubicación de GRUPO MC SOLAR"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3876.3246170737575!2d-89.21819138563243!3d13.692940102490774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6330423a0d5ab1%3A0x4f4f67e31b8540f4!2sCol.%20Lomas%20Verdes%2C%20San%20Salvador!5e0!3m2!1ses-419!2ssv!4v1721530412345"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3876.2882168681813!2d-89.22183671061617!3d13.700985951233681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDQyJzAzLjkiTiA4OcKwMTMnMTMuNSJX!5e0!3m2!1ses!2ssv!4v1765845270287!5m2!1ses!2ssv"
               width="100%"
               height="300"
               className="rounded-lg border border-border w-full md:w-[500px] h-[300px]"
